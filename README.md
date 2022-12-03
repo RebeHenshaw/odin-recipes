@@ -1,0 +1,1 @@
+This project is to demonstrate/ practice HTML. It's a simple recipe page.
