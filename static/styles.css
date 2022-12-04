@@ -1,0 +1,59 @@
+body {
+  background-color: #331c1ca8;
+  color: aliceblue;
+  font-size: 1.5em;
+  text-align: center;
+
+}
+
+.small {
+  max-width: 15%;
+  height: auto;
+}
+
+
+#index {
+  list-style-type: none;
+
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h3 {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #74af83;
+  font-size: 2em;
+}
+
+a:visited {
+  color: lightpink;
+}
+
+.main-pic {
+  max-width: 45%;
+  height: auto;
+  border-style: solid 4px;
+  border-color: aliceblue;
+}
+
+div.description, div.ingredients, div.steps {
+  max-width: 60%;
+  height: auto;
+  text-align: center;
+  color: lightpink;
+  margin-left: 20%;
+
+}
+
+.ingredients {
+  list-style-type: none;
+}
